@@ -93,14 +93,9 @@ Note:
 
 ---
 
-## Future Work
 
-* Multi-cone tracking across frames
-* Distance estimation using camera geometry
-* Path planning based on cone layout
-* Integration with control stack for autonomous navigation
 
----
+
 
 ## Repository Structure
 
@@ -116,6 +111,4 @@ detection_ws/
 
 ---
 
-## Notes
 
-This project is part of a broader robotics pipeline aimed at autonomous navigation using perception-driven methods. The output of this module is intended to be consumed by planning and control components.
